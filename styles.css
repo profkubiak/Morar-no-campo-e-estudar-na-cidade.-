@@ -32,6 +32,7 @@ nav ul li a {
 }
 
 section#intro {
+    color: rgb(218, 30, 30);
     padding: 20px;
     text-align: center;
 }

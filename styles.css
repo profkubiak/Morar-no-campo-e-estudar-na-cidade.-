@@ -39,6 +39,6 @@ section#intro {
 section#intro img {
     max-width: 100%;
     height: auto;
-    border-radius: 10px;
-    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
 }

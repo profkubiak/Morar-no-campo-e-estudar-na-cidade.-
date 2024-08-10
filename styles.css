@@ -36,3 +36,9 @@ section#intro {
     padding: 20px;
     text-align: center;
 }
+section#intro img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
